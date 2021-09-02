@@ -1,0 +1,14 @@
+site_name: Exemplo de Erro
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - markmap
+
+markdown_extensions:
+  - pymdownx.superfences
+
+nav:
+  - Início: index.md
